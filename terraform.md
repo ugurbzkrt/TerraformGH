@@ -161,3 +161,4 @@ Başlangıç seviyesi için bilinmesi gereken temel unsurlar belirtilmiştir.
 ```
 
 GitHub: https://github.com/UgurBzkrt/TerraformGH
+Medium: https://medium.com/@ugurbzkrt/terraform-simple-explanation-for-beginners-11161b1a3388
