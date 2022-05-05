@@ -1,7 +1,7 @@
 # Terraform Nedir?
 
 ```bash
- Terraform, Insfastructure As A Code yani Altyapı sağlayıcıdır.
+ Terraform, Infrastructure As A Code yani Altyapı sağlayıcıdır.
  Platform oluşturup o platform üzerinde servisleri yönetmemizi sağlar.
  Servis sağlayıcılar üzerinde yapılan işlemleri kısaltır.
  Yapılan işlemleri manuel olarak yapmayız. < Declaretive
